@@ -1,0 +1,24 @@
+бс Arduino Library Installation
+https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation
+
+бс Adafruit NeoPixel Library
+https://github.com/adafruit/Adafruit_NeoPixel
+
+бс Adafruit - Arduino Library Use
+https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library
+
+бс Adafruit_NeoPixel Class Reference
+https://adafruit.github.io/Adafruit_NeoPixel/html/class_adafruit___neo_pixel.html
+
+бс Adafruit Data Sheet
+https://learn.adafruit.com/adafruit-neopixel-uberguide/downloads
+
+
+бс Addressable RGB 60-LED Strip, 5V, 2m (WS2812B)
+https://www.pololu.com/product/2547
+
+бс  Powering NeoPixels
+https://learn.adafruit.com/adafruit-neopixel-uberguide/power
+
+
+
